@@ -43,7 +43,7 @@
     "yargs"
   ],
   "optionalDependencies": {
-    "dat-node": "^3.5.1"
+    "dat-node": "^3.5.3"
   },
   "dependencies": {
     "fs-extra": "^4.0.1",
